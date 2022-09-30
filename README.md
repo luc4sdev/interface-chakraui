@@ -7,14 +7,6 @@ O objetivo do projeto é criar um uma interface de um site de viagens utilizando
 
 --- 
 
-## 📽️ Vídeo do projeto (clique para assistir)
-
-<a href="https://youtu.be/EyceM-Lxa6Y" target="_blank" rel="external">
-<img src="public/assets/project-image.png" height="400" width="800" alt="exemplo imagem">
-</a>
-
-
---- 
 
 ## 💻 Pré-requisitos
 
