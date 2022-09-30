@@ -1,4 +1,4 @@
-import logo from '../../public/assets/logo.svg'
+import logo from '../../public/assets/main/logo.svg'
 import { Box, Center, Flex, SimpleGrid, useBreakpointValue } from '@chakra-ui/react'
 import Image from 'next/image'
 import Link from 'next/link';
