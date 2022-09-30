@@ -1,0 +1,48 @@
+{
+    "data": {
+               "name": "Ásia",
+               "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+               "countrys": 51,
+               "languages": 2300,
+               "cities": 30,
+               "background": "/assets/asia/asia-page.jpg",
+               "city1": "Hong Kong",
+               "city2": "Bangkok",
+               "city3": "Tóquio",
+               "city4": "Xangai",
+               "city5": "Dubai",
+
+               "citiesData": [
+                {
+                    "city": "Hong Kong",
+                    "country": "China",
+                    "background": "/assets/asia/hongKong.jpg",
+                    "flag": "/assets/asia/flag-china.jpg"
+                },
+                {
+                    "city": "Bangkok",
+                    "country": "Tailândia",
+                    "background": "/assets/asia/bangkok.jpg",
+                    "flag": "/assets/asia/flag-tailandia.png"
+                },  
+                {
+                    "city": "Toquio",
+                    "country": "Japão",
+                    "background": "/assets/asia/toquio.jpg",
+                    "flag": "/assets/asia/flag-japao.png"
+                },
+                {
+                    "city": "Xangai",
+                    "country": "China",
+                    "background": "/assets/asia/xangai.jpg",
+                    "flag": "/assets/asia/flag-china.jpg"
+                },
+                {
+                    "city": "Dubai",
+                    "country": "Emirados Árabes Unidos",
+                    "background": "/assets/asia/dubai.jpg",
+                    "flag": "/assets/asia/flag-emirates.png"
+                }
+            ]
+       }
+   }

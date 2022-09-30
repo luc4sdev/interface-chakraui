@@ -1,0 +1,48 @@
+{
+    "data": {
+               "name": "África",
+               "description": "A África é um continente localizado na zona intertropical, com maior parte do seu território no Hemisfério Sul. Possui mais de um bilhão de habitantes e 30 milhões de km2 de extensão, sendo, por isso, considerado um dos maiores e mais populosos continentes do mundo.",
+               "countrys": 54,
+               "languages": 2000,
+               "cities": 30,
+               "background": "/assets/africa/africa-page.jpg",
+               "city1": "Johanesburgo",
+               "city2": "Cidade do Cabo",
+               "city3": "Nairóbi",
+               "city4": "Lagos",
+               "city5": "Dacar",
+
+               "citiesData": [
+                {
+                    "city": "Johanesburgo",
+                    "country": "África do Sul",
+                    "background": "/assets/africa/johanesburgo.jpg",
+                    "flag": "/assets/africa/flag-africa.jpg"
+                },
+                {
+                    "city": "Cidade do Cabo",
+                    "country": "África do Sul",
+                    "background": "/assets/africa/cb.jpg",
+                    "flag": "/assets/africa/flag-africa.jpg"
+                },  
+                {
+                    "city": "Nairóbi",
+                    "country": "Quênia",
+                    "background": "/assets/africa/nairobi.jpg",
+                    "flag": "/assets/africa/flag-quenia.jpg"
+                },
+                {
+                    "city": "Lagos",
+                    "country": "Nigéria",
+                    "background": "/assets/africa/lagos.jpg",
+                    "flag": "/assets/africa/flag-nigeria.jpg"
+                },
+                {
+                    "city": "Dacar",
+                    "country": "Senegal",
+                    "background": "/assets/africa/dacar.jpg",
+                    "flag": "/assets/africa/flag-senegal.jpg"
+                }
+            ]
+       }
+   }

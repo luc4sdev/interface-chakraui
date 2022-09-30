@@ -1,0 +1,48 @@
+{
+    "data": {
+               "name": "América",
+               "description": "América é um dos cinco continentes do mundo, sendo o maior deles territorialmente de norte a sul. O continente é dividido em três subcontinentes repletos de particularidades.",
+               "countrys": 36,
+               "languages": 1.061,
+               "cities": 30,
+               "background": "/assets/america/america-page.jpg",
+               "city1": "São Paulo",
+               "city2": "Buenos Aires",
+               "city3": "Rio de Janeiro",
+               "city4": "Washington",
+               "city5": "Los Angeles",
+
+               "citiesData": [
+                {
+                    "city": "São Paulo",
+                    "country": "Brasil",
+                    "background": "/assets/america/sp.jpg",
+                    "flag": "/assets/america/flag-brasil.png"
+                },
+                {
+                    "city": "Buenos Aires",
+                    "country": "Argentina",
+                    "background": "/assets/america/ba.jpg",
+                    "flag": "/assets/america/flag-argentina.jpg"
+                },  
+                {
+                    "city": "Rio de Janeiro",
+                    "country": "Brasil",
+                    "background": "/assets/america/rj.jpg",
+                    "flag": "/assets/america/flag-brasil.png"
+                },
+                {
+                    "city": "Washington",
+                    "country": "Estados Unidos",
+                    "background": "/assets/america/washington.jpg",
+                    "flag": "/assets/america/flag-eua.jpg"
+                },
+                {
+                    "city": "Los Angeles",
+                    "country": "Estados Unidos",
+                    "background": "/assets/america/la.jpg",
+                    "flag": "/assets/america/flag-eua.jpg"
+                }
+            ]
+       }
+   }

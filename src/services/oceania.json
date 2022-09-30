@@ -1,0 +1,48 @@
+{
+    "data": {
+               "name": "Oceania",
+               "description": "Oceania é um continente localizado entre os oceanos Índico e Pacífico, formado por 14 países insulares e diversos territórios ultramarinos. Possui 42 milhões de habitantes.",
+               "countrys": 14,
+               "languages": 2000,
+               "cities": 30,
+               "background": "/assets/oceania/oceania-page.jpg",
+               "city1": "Sydney",
+               "city2": "Camberra",
+               "city3": "Melbourne",
+               "city4": "Perth",
+               "city5": "Auckland",
+
+               "citiesData": [
+                {
+                    "city": "Sydney",
+                    "country": "Austrália",
+                    "background": "/assets/oceania/sydney.jpg",
+                    "flag": "/assets/oceania/flag-australia.jpg"
+                },
+                {
+                    "city": "Camberra",
+                    "country": "Austrália",
+                    "background": "/assets/oceania/camberra.jpg",
+                    "flag": "/assets/oceania/flag-australia.jpg"
+                },  
+                {
+                    "city": "Melbourne",
+                    "country": "Austrália",
+                    "background": "/assets/oceania/melbourne.jpg",
+                    "flag": "/assets/oceania/flag-australia.jpg"
+                },
+                {
+                    "city": "Perth",
+                    "country": "Austrália",
+                    "background": "/assets/oceania/perth.jpg",
+                    "flag": "/assets/oceania/flag-australia.jpg"
+                },
+                {
+                    "city": "Auckland",
+                    "country": "Nova Zelândia",
+                    "background": "/assets/oceania/auckland.jpg",
+                    "flag": "/assets/oceania/flag-nz.jpg"
+                }
+            ]
+       }
+   }

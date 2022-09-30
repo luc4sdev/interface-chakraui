@@ -1,0 +1,48 @@
+{
+ "data": {
+            "name": "Europa",
+            "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+            "countrys": 50,
+            "languages": 60,
+            "cities": 30,
+            "background": "/assets/europe/europe-page.png",
+            "city1": "Londres",
+            "city2": "Veneza",
+            "city3": "Amsterdã",
+            "city4": "Moscou",
+            "city5": "Lisboa",
+
+            "citiesData": [
+                {
+                    "city": "Londres",
+                    "country": "Reino Unido",
+                    "background": "/assets/europe/londres.jpg",
+                    "flag": "/assets/europe/flag-londres.svg"
+                },
+                {
+                    "city": "Paris",
+                    "country": "França",
+                    "background": "/assets/europe/paris.jpg",
+                    "flag": "/assets/europe/flag-france.png"
+                },
+                {
+                    "city": "Roma",
+                    "country": "Itália",
+                    "background": "/assets/europe/rome.jpg",
+                    "flag": "/assets/europe/flag-italia.png"
+                },
+                {
+                    "city": "Praga",
+                    "country": "República Tcheca",
+                    "background": "/assets/europe/prague.jpg",
+                    "flag": "/assets/europe/flag-republic.png"
+                },
+                {
+                    "city": "Amsterdã",
+                    "country": "Holanda",
+                    "background": "/assets/europe/amsterdam.jpg",
+                    "flag": "/assets/europe/flag-holanda.png"
+                }
+            ]
+    }
+}
